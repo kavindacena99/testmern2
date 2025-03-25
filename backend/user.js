@@ -231,4 +231,5 @@ const user = [
     }
   ];
 
-  export default user;
+
+  module.exports = user;
